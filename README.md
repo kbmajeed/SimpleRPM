@@ -13,4 +13,4 @@ integral score corresponding to the missing RPM element is predicted.
   
 Finally, the predicted integral score is used to find the matching test image in the matching stage. The Simple-
 RPM performs above average on the Basic-B and Basic-C RPM problem sets. The adjoining code shows how this Agent can be
-implemented in roughly 10 lines of python code.  
+implemented in roughly 5 lines of python code.  
